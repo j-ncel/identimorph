@@ -6,8 +6,8 @@
 
 [**Identimorph**](https://identimorph.streamlit.app/) is a tool that creates animated identicons from text using hash-based pixel symmetry. See the example below.
 
-![Preview Identimorph GIF](sample/jncel_identimorph.gif)  
-_identimorph of 'jncel' string_
+![Preview Identimorph GIF](sample/jncel_identimorph.gif) ![Preview Identimorph-SPIRAL GIF](sample/jncel_spiral.gif)  
+_identimorph of 'jncel' string_ for default and spiral drawing.
 
 ## Features
 
