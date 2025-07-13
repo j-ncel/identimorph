@@ -63,7 +63,3 @@ def identimorph(text: str = "github.com/j-ncel", frames: int = 12, size: int = 1
         loop=0
     )
     print(f"You identimorph was saved as {output_path}")
-
-
-identimorph(text="github.com/jncel", frames=48, size=256,
-            glow=0, fps=3, output_path="identimorph.gif")
