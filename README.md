@@ -4,7 +4,7 @@
 
 # Identimorph <img src="sample/jncel_identimorph.gif" width="48" height="" alt="jncel identimorph">
 
-[**Identimorph**]() is a tool that creates animated identicons from text using hash-based pixel symmetry. See the example below.
+[**Identimorph**](https://identimorph.streamlit.app/) is a tool that creates animated identicons from text using hash-based pixel symmetry. See the example below.
 
 ![Preview Identimorph GIF](sample/jncel_identimorph.gif)  
 _identimorph of 'jncel' string_
@@ -17,4 +17,6 @@ _identimorph of 'jncel' string_
 
 ## Demo
 
-[![Demo Streamlit](sample/demo.png)]()
+**Check here: https://identimorph.streamlit.app/**
+
+[![Demo Streamlit](sample/demo.png)](https://identimorph.streamlit.app/)
